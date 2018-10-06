@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: A True Account of the Battle of Jutland, May 31, 1916
 url: http://www.gutenberg.org/ebooks/47949
